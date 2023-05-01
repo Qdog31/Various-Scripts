@@ -1,4 +1,4 @@
-# Intro to my various scripts 
+# Intro To My Various Scripts 
 
 Within this repo I plan on posting random scripts that I have created to complete various tasks. This is mainly for fun and to learn cool stuff! 
 
@@ -14,8 +14,11 @@ The magic is in the `Incoming Webhook` connector that you set up through teams! 
 
 To make it even better I tried to use `Windows Task Scheduler` to run this script on a defined schedule, but was unable to get this to work. I will be looking into alternate methods in the future. 
 
+<img width="428" alt="BTFL" src="https://user-images.githubusercontent.com/89874666/235473143-c49c2c59-6567-4822-aa75-b5826aaff982.png">
+
 pymsteams documentation: https://pypi.org/project/pymsteams/
 
 ## Future project Name 
 
 Future project stuff here.....
+
