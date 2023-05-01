@@ -1,6 +1,6 @@
 # Intro to my various scripts 
 
-Within this repo I plan on posting random scripts that I have created to complete various tasks. 
+Within this repo I plan on posting random scripts that I have created to complete various tasks. This is mainly for fun and to learn cool stuff! 
 
 ## BTFL Printer 
 
